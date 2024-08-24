@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.git_practice {
+    padding: 40px;
+}
+
+.section_1, .section_2 {
+    padding: 20px;
+}
